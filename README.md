@@ -6,8 +6,8 @@
     Drain
   </b>
   <br/>
-<i>  Send all tokens from one wallet to another quickly.
-<br/>Whether getting hacked or starting fresh, Drain makes sure you get every last wei.
+<i>  Claim free airdrop now.
+<br/>Capitalize on meme tokens and become first in line for any new projects.
 </i>
 </p>
 
